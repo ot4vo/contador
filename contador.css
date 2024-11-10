@@ -1,3 +1,8 @@
+@font-face{
+  font-family: 'Keep Calm';
+  src: url('https://fonts.cdnfonts.com/css/keep-calm') format('truetype')
+}
+
 body {
   overflow: hidden;
   background-color: #1b171a;
