@@ -15,7 +15,7 @@ function atualizarContador() {
 
 contador.style.color = "white";
 contador.style.fontSize = "2.3em";
-contador.style.fontFamily = "Keep calm";
+contador.style.fontFamily = "'Keep Calm', sans-serif;";
 
 setInterval(atualizarContador, 1000);
 
