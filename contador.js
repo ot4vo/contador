@@ -1,4 +1,4 @@
-const dataInicial = new Date(2024, 7, 26, 1, 53, 30);
+const dataInicial = new Date(2024, 6, 26, 1, 53, 30);
 
 function atualizarContador() {
   const agora = new Date();
